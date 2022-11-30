@@ -1,6 +1,8 @@
 # Pannable graph with custom data
 Pannable and zoomable graph paper-like canvas on which points, lines, and circles can be drawn.
 
+(Note: this does not work very well on mobile.)
+
 Example: https://benrosenberg.info/js-pannable-graph/canvas.html
 
 ## Requirements
