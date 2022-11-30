@@ -1,6 +1,8 @@
 # Pannable graph with custom data
 Pannable and zoomable graph paper-like canvas on which points, lines, and circles can be drawn.
 
+Example: https://benrosenberg.info/js-pannable-graph/canvas.html
+
 ## Requirements
 
  - Python 3
